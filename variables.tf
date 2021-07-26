@@ -6,11 +6,11 @@ variable "region" {
 
 variable "accesskey" {
   description = "AWS Accesskey"
-  default = "AKIAQQIEGRVXCPIR757M"
+  default = "AKIAQQIEGM"
 }
 
 variable "seckey" {
-  default = "ZqbnDVURByjOJui3NJJM3DfHl8z1I3Z3L9N/pO7z"
+  default = "ZqbnDVURBz"
   description = "AWS Secretkey"
 }
 
